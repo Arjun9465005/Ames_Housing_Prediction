@@ -1,5 +1,5 @@
 # Ames_housing_Kaggle_dataset
-The Dataset is taken for the Kaggle. This project give us the sales-price of house on the feature it has. The outcome contain the predicted sales-price of the houses.
+The Dataset is taken for the Kaggle. This project give us the sales-price of house on the feature it has. The outcome contain the predicted sales-price of the houses. Below are the some of the graphical representation used.
 ## Graphical representation of Continuous features
 ![Graphical](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/66fdd861-dc1f-47c7-b972-69533c5459b6)
 
