@@ -1,11 +1,13 @@
 # Ames_housing_Kaggle_dataset
 The Dataset is taken for the Kaggle. This project give us the sales-price of house on the feature it has. The outcome contain the predicted sales-price of the houses.
 ## Graphical representation of Continuous features
-![Graphical representation of Continuous features](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/1281a5cd-5b88-4b7b-8a73-41ad690411e5)
+![Graphical](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/66fdd861-dc1f-47c7-b972-69533c5459b6)
+
 ## Continous Feature in numerical data
 ![Continous Feature in numerical data](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/50bf508d-bb88-4a8a-b630-893be9e1deca)
 ## Effect of discrete on SalePrice(Median)
-![Effect of discrete on SalePrice(Median)](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/38661b40-94bf-41bb-be24-8c7d50c14807)
+![Effect of discrete on SalePrice(Median)](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/5ac3fa3d-a334-4d4a-b865-57e5ff99c994)
+
 ## Effect of Continous after Normalization
 ![Effect of Continous after Normalization](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/7e99675a-5c90-4309-8a52-85ed072e3c6f)
 ## Categorical VS SalePrice(Median)
@@ -15,14 +17,20 @@ The Dataset is taken for the Kaggle. This project give us the sales-price of hou
 ## null effect
 ![null effect img](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/c5d5d306-5276-4cce-a6a7-fab38e5f24f3)
 ## Heatmap of numerical features
-![Heatmap of numerical features](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/8a58ff77-9fb9-4a76-a4d3-7ce3fbe1f118)
+![Heatmap for numerical features](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/7bb935b4-cd13-4f04-839c-92451f2e5acd)
+
 ## Heatmap for numerical features
-![Heatmap for numerical features](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/d8fd2e6a-aef7-4426-8661-b2d2fda0e7d3)
+![Heatmap of numerical features](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/9c223595-7df3-4d22-b7e3-6b131bd6196a)
+
 ## residual vs predicted values
-![residual vs predicted values](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/2940c020-6aeb-4f79-bbc1-8fad5afe362a)
+![residuel](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/d911cbda-00b0-4e43-944f-86f6498bb939)
+
 ## residual vs predicted values(standard deviation is normalized)
-![residual vs predicted values SD](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/a0269f85-2269-42ed-be2a-4d123a21ad1e)
+![histogram for residuel](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/a0fb80d0-0ead-4597-9562-4208a6ef73bd)
+
 ## OLS for ames housing
-![OLS for ames housing](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/2987f05d-9916-4ccd-81a6-2d16addcf32b)
+![OLS for ames housing](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/23d98343-fc8c-451f-9af2-dc76a95d348e)
+
 ## prediction accuracy for Ames housing sale-price
-![prediction for ames housing sale-price](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/9c657b63-a155-4c9b-a601-8b86ce29d22f)
+
+![prediction for ames housing sale-price](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/2ccf0f8b-3eb8-484a-8bb7-802fb3f27217)
