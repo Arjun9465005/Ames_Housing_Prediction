@@ -9,13 +9,17 @@ The Dataset is taken for the Kaggle. This project give us the sales-price of hou
 ![Effect of discrete on SalePrice(Median)](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/5ac3fa3d-a334-4d4a-b865-57e5ff99c994)
 
 ## Effect of Continous after Normalization
-![Effect of Continous after Normalization](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/7e99675a-5c90-4309-8a52-85ed072e3c6f)
+![effect of normalizATION](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/af901678-b57c-4314-8911-688c8a32c2d5)
+
 ## Categorical VS SalePrice(Median)
-![Categorical VS SalePrice(Median)](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/fc5d5554-db0a-4309-9902-cf364af27e17)
+![Categorical VS SalePrice(Median)](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/059f8815-63af-4dd1-83a4-d904b3933a8d)
+
 ## Box plot for the above continuos features
-![Box plot for the above continuos features](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/dae5301a-e3a6-4b05-bc18-d2dca6d6c057)
+![box plot](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/e850f007-642f-442c-822d-4e4a4a05b43d)
+
 ## null effect
-![null effect img](https://github.com/Arjun9465005/Ames_housing_sales_price_prediction_Kaggle_dataset/assets/146981693/c5d5d306-5276-4cce-a6a7-fab38e5f24f3)
+![null effect](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/3ae8486d-3146-4f84-8b8f-e1755b89d2e4)
+
 ## Heatmap of numerical features
 ![Heatmap for numerical features](https://github.com/Arjun9465005/Ames_Housing_Prediction/assets/146981693/7bb935b4-cd13-4f04-839c-92451f2e5acd)
 
